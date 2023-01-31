@@ -40,5 +40,22 @@ _With our KYC process we intend to assure investors that the owner guarantees an
 6. _Making the video call_
 7. KYC process result
 
-*
+* _**Dear CEO's of projects -> It is important that all projects have the KYC seal, because it gives credibility and legitimacy to your project**_
+* _**The KYC process can take 24-48 hours, so we stress the importance of contacting us as soon as possible.**_
 
+## KYC for investors
+
+_We emphasize to you, investors, the importance of investing in projects that have the KYC seal, because we credit it to the CEO's responsibility in all actions, even in a decentralized world. If, by any chance, there is damage done to the CEO's of KYC projects by us, we will adopt the following punishments;_
+
+* _**We will disclose all data made available in the KYC validation process**_
+* _**We will make the CEO information public and investors who have been harmed will be able to file criminal charges.**_
+
+## Refund Policy
+
+{% hint style="danger" %}
+_**It is important to highlight that in the act of contacting us, remove all doubts! So that you can obtain a successful KYC, but if you do not agree with any step, do not send the agreed payment. Once the payment is executed, you are agreeing that there is no right to a refund under any circumstances.**_
+{% endhint %}
+
+_With that, we again emphasize to project owners, be honest at all times when using your real documents, your legal and real name, and your real role in the project, as failure to do so will result in **IMMEDIATE** cancellation of your KYC, with no refunds._
+
+__
