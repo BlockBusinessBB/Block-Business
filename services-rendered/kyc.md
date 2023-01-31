@@ -29,7 +29,7 @@ _The KYC process is used by businesses of all sizes, from large banks to small f
 
 _With our KYC process we intend to assure investors that the owner guarantees and makes himself fully visible for the sake of the security and integrity of the same, to do this we simply follow the following steps:_
 
-* **Contact us **_****_ [_**@bullMarketcrypton**_](https://t.me/bullMarketcrypton) _**who is manager of the Block Business KYC process**_
+* **Get in touch with **_****_ [_**@bullMarketcrypton**_](https://t.me/bullMarketcrypton) _**who is manager of the Block Business KYC process**_
 * _**The process will run in a group created by the KYC manager and will have 5 steps:**_
 
 1. _KYC process payment with agreed value_
