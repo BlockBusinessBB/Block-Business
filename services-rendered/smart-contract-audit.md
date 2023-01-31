@@ -24,4 +24,4 @@ _In order for us to audit your contract, it is very important to be aware of our
 2. _You will be asked for Project data (Name of CEO, CEO's last name, Project Name, social media link and the smart contract)_
 3. _In this step, we will perform several analysis processes in parallel in your code, and after the analysis is finished, we will submit it to a manual process, where any anomalies will be detected._
 4. _In this step, we will perform several analysis processes in parallel in your code, and after the analysis is finished, we will submit it to a manual process, where any anomalies will be detected._
-5.
+5. We provide a comprehensive report with vulnerability details, mitigation guidance, and options for ongoing verification. With our report, you will have all the necessary tools to ensure the security of your network and protect your data. Don't let the threat of vulnerabilities compromise the security of your business, trust our team to provide a comprehensive and effective solution.
