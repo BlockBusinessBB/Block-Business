@@ -45,9 +45,6 @@ coverY: 0
 
  
 
-<figure><img src="../.gitbook/assets/Camilla Ferraz.jpg" alt=""><figcaption><p>CAMILLA FERRAZ - Moderation Manager<br>contact@blockbusiness.company<br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Camilla Ferraz.jpg" alt=""><figcaption><p><mark style="color:blue;"><strong></strong></mark><a href="https://t.me/Camillaferrazcrypto"><mark style="color:blue;"><strong>CAMILLA FERRAZ - Moderation Manager</strong></mark></a><mark style="color:blue;"><strong></strong></mark><br><mark style="color:blue;"><strong></strong></mark><em><mark style="color:blue;"><strong>contact@blockbusiness.company</strong></mark></em><br><mark style="color:blue;"><strong></strong></mark></p></figcaption></figure>
 
 </div>
-
-\
-\
