@@ -17,7 +17,7 @@ coverY: 0
 
  
 
-<figure><img src="../.gitbook/assets/Edward.jpg" alt=""><figcaption><p><mark style="color:blue;"><strong></strong></mark><a href="https://t.me/EdwardblockB"><mark style="color:blue;"><strong>EDWARD - Web Developer</strong></mark></a><em><mark style="color:blue;"><strong></strong></mark></em><br><em><mark style="color:blue;"><strong>edward@blockbusiness.company</strong></mark></em> <br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/283x300.png" alt=""><figcaption><p><mark style="color:blue;"><strong></strong></mark><a href="https://t.me/EdwardblockB"><mark style="color:blue;"><strong>EDWARD - Web Developer</strong></mark></a><em><mark style="color:blue;"><strong></strong></mark></em><br><em><mark style="color:blue;"><strong>edward@blockbusiness.company</strong></mark></em> </p></figcaption></figure>
 
 </div>
 
