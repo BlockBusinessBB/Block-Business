@@ -5,7 +5,7 @@ coverY: 0
 
 # Penetraion Testing
 
-## <mark style="color:blue;">Penetration Testing of Modern Applications</mark>
+## _<mark style="color:blue;">Penetration Testing of Modern Applications</mark>_
 
 _Our penetration testing services uncover even the slightest weaknesses using proprietary tools powered by an experienced team of ethical hackers._
 
