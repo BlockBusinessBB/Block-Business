@@ -5,19 +5,19 @@ coverY: 0
 
 # Smart Contract Audit
 
-## _<mark style="color:blue;">Smart Contract Audit - Block Business</mark>_
+## <mark style="color:blue;">Smart Contract Audit - Block Business</mark>
 
 _At Block Business, we will adopt various means to qualify a smart contract, including both systemic and manual analysis protocols. All audited contracts will receive a comprehensive report at the end, providing recommendations for improvement, mitigation strategies, and options for ongoing monitoring. We play a crucial role in building and maintaining trust in the cryptocurrency ecosystem and it is essential to ensure the security and stability of blockchain systems._
 
-## _Smart Contract Audit Explanation_
+## Smart Contract Audit Explanation
 
 _Cryptocurrency audits are security evaluations of blockchain systems, smart contracts, and applications to identify vulnerabilities, security risks, and potential weaknesses. The goal of cryptocurrency audits is to enhance the security of the systems, prevent attacks, and ensure the protection of user's assets. They are conducted by specialized auditing firms that use a combination of manual and automated testing methods to review the code, assess the architecture, and validate the functionality of the systems._
 
-## _Audit for the owners_
+## Audit for the owners
 
 _In order for us to audit your contract, it is very important to be aware of our steps, which are defined as follows:_
 
-* **Get in touch with** [**@Jhoncubbinsdev**](https://t.me/Jhoncubbinsdev), _**who is manager of the Block Business Audit process**_
+* **Get in touch with @Jhoncubbinsdev**, _**who is manager of the Block Business Audit process**_
 * _**The process will run in a group created by the Audit manager and will have 3 steps:**_
 
 1. _After the group has been created, the responsible manager will request payment from the CEO of the project, and after payment is confirmed, the second stage will begin;_

@@ -5,13 +5,13 @@ coverY: 0
 
 # KYC
 
-## _<mark style="color:blue;">KYC Process - Block Business</mark>_
+## <mark style="color:blue;">KYC Process - Block Business</mark>
 
 _One of the pillars of Block Business is the integrity of all investors, and with this we work with resources and tools that will help us against scams and cheats, made by malicious. Thanks to the KYC process, we will have power in decision making, because it is an excellent tool for analysis._
 
 _We have a highly trained and qualified team with extensive knowledge in the financial market that will perform this process, to learn more, read below this short article exploring a little about this tool._
 
-## _KYC Explanation_
+## KYC Explanation
 
 _KYC (Know Your Customer) is an identity verification process that companies use to ensure that their customers are who they say they are. The process involves checking documents, such:_
 
@@ -43,14 +43,14 @@ _With our KYC process we intend to assure investors that the owner guarantees an
 * _**Dear CEO's of projects -> It is important that all projects have the KYC seal, because it gives credibility and legitimacy to your project**_
 * _**The KYC process can take 24-48 hours, so we stress the importance of contacting us as soon as possible.**_
 
-## _KYC for investors_
+## KYC for investors
 
 _We emphasize to you, investors, the importance of investing in projects that have the KYC seal, because we credit it to the CEO's responsibility in all actions, even in a decentralized world. If, by any chance, there is damage done to the CEO's of KYC projects by us, we will adopt the following punishments;_
 
 * _**We will disclose all data made available in the KYC validation process**_
 * _**We will make the CEO information public and investors who have been harmed will be able to file criminal charges.**_
 
-## _Refund Policy_
+## Refund Policy
 
 {% hint style="danger" %}
 _**It is important to highlight that in the act of contacting us, remove all doubts! So that you can obtain a successful KYC, but if you do not agree with any step, do not send the agreed payment. Once the payment is executed, you are agreeing that there is no right to a refund under any circumstances.**_
