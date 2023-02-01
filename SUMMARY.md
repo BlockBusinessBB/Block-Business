@@ -23,8 +23,3 @@
 
 * [Brand Assets](block-business/brand-assets.md)
 * [Our Trusted Partners](block-business/our-trusted-partners.md)
-
-## Privacy Policy
-
-* [Privacy Policy](privacy-policy/privacy-policy.md)
-* [Terms of Service](privacy-policy/terms-of-service.md)
