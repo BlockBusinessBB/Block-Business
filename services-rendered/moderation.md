@@ -5,11 +5,15 @@ coverY: 0
 
 # Moderation
 
-## <mark style="color:blue;">Moderation</mark>
+## _<mark style="color:blue;">Moderation</mark>_
 
 _We have a highly qualified moderation team with a shift division, where we are able to be online 24 hours and active in the groups. We have professionals trained in bot development that amplifies the need for quick messages from investors._
 
 _All of our moderators have experience in the financial market, which enables the study of projects and even future investor doubts, from the simplest to the most complex. A highly qualified team ready to meet your needs._
+
+#### _To access our moderation team, please contact_ [_Camilla_](https://t.me/Camillaferrazcrypto)_, she will guide you through our schedule and introduce you to the Block Business moderation project._
+
+## _Moderation Explanation_
 
 #### The importance of moderation in cryptocurrency projects
 
