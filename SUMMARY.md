@@ -22,7 +22,6 @@
 ## Block business
 
 * [Brand Assets](block-business/brand-assets.md)
-* [Block Business Elite Club](block-business/block-business-elite-club.md)
 * [Our Trusted Partners](block-business/our-trusted-partners.md)
 
 ## Privacy Policy

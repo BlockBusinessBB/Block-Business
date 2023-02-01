@@ -7,13 +7,15 @@ coverY: 0
 
 <div>
 
+<figure><img src="../.gitbook/assets/POLYCRIPTO.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
 <figure><img src="../.gitbook/assets/bILZERIAN CALLS.png" alt=""><figcaption></figcaption></figure>
 
- 
+</div>
 
-<figure><img src="../.gitbook/assets/cRYPTO ANALISE.png" alt=""><figcaption></figcaption></figure>
-
- 
+<div>
 
 <figure><img src="../.gitbook/assets/DEX VIEW.png" alt=""><figcaption></figcaption></figure>
 
@@ -21,13 +23,15 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/hAZE.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/cRYPTO ANALISE.png" alt=""><figcaption></figcaption></figure>
+
  
 
 <figure><img src="../.gitbook/assets/pINKSALE.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/POLYCRIPTO.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
