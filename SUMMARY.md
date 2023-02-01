@@ -9,7 +9,7 @@
 * [KYC](services-rendered/kyc.md)
 * [Smart Contract Audit](services-rendered/smart-contract-audit.md)
 * [SAFU](services-rendered/safu.md)
-* [Penetraion Testing](services-rendered/penetraion-testing.md)
+* [Penetration Testing](services-rendered/penetration-testing.md)
 * [Copywriting](services-rendered/copywriting.md)
 * [Moderation](services-rendered/moderation.md)
 * [AMA's + Calls](services-rendered/amas-+-calls.md)
