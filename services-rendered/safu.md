@@ -9,6 +9,8 @@ coverY: 0
 
 _The SAFU Badge represents the protection of investors against malicious or unfair actions by the project's developer. This badge is awarded to projects that have undergone KYC (Know Your Customer) verification and meet specific criteria set by the SAFU Developer. The SAFU Badge ensures that the project operates in a manner that is secure and fair for all investors._
 
+#### _If you want to make a SAFU contract, contact_ [_@jhoncubbinsdev_](https://t.me/Jhoncubbinsdev)_, he will guide you and provide the guidelines._
+
 #### In order to qualify our investors with the SAFU label, there are some criteria to be followed, such as:
 
 * _KYC qualification of the project's CEO is paramount_
