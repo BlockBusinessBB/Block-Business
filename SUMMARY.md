@@ -11,7 +11,6 @@
 * [SAFU](services-rendered/safu.md)
 * [Penetraion Testing](services-rendered/penetraion-testing.md)
 * [Copywriting](services-rendered/copywriting.md)
-* [Trend Views](services-rendered/trend-views.md)
 * [Moderation](services-rendered/moderation.md)
 * [AMA's + Calls](services-rendered/amas-+-calls.md)
 * [Development Intelligent Contract](services-rendered/development-intelligent-contract.md)
