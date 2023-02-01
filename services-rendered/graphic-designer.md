@@ -1,7 +1,6 @@
 ---
-cover: ../.gitbook/assets/Capa Gitbook.png
 coverY: 0
 ---
 
-# Graphic Designer
+# Designer Services
 
