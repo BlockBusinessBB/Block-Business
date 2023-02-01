@@ -11,8 +11,6 @@ _We have a highly qualified moderation team with a shift division, where we are 
 
 _All of our moderators have experience in the financial market, which enables the study of projects and even future investor doubts, from the simplest to the most complex. A highly qualified team ready to meet your needs._
 
-#### _To access our moderation team, please contact_ [_Camilla_](https://t.me/Camillaferrazcrypto)_, she will guide you through our schedule and introduce you to the Block Business moderation project._
-
 #### The importance of moderation in cryptocurrency projects
 
 _Moderation is crucial in cryptocurrency projects for several reasons:_
