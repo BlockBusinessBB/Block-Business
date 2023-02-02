@@ -11,4 +11,4 @@ _We have a graphic designer team, which acts in favor of the block business in c
 
 _Our team has the most renowned designers, who focus on the cryptographic market. They use their expertise in typography, color, composition, and visual storytelling to create logos, brochures, websites, advertisements, and other types of visual communication materials. Graphic designers work with clients to understand their objectives, target audience, and desired message, and then use this information to create aesthetically appealing and effective designs that effectively convey their clients' message._
 
-#### _The responsible for this sector is_ [_Edward_](https://t.me/EdwardblockB) _,  please contact him and he will guide you through the next steps._
+#### _The responsible for this sector is_  [_Jon_](https://t.me/Jhoncubbinsdev) _and_[ _Diego_](https://t.me/bullMarketcrypton)_,  please contact him and he will guide you through the next steps._
