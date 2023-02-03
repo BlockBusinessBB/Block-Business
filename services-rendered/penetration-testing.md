@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/Capa Gitbook.png
+cover: ../.gitbook/assets/GITHUB-CAPA.png
 coverY: 0
 ---
 
-# Penetraion Testing
+# Penetration Testing
 
 ## _<mark style="color:blue;">Penetration Testing of Modern Applications</mark>_
 
