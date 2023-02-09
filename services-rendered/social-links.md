@@ -7,11 +7,11 @@ coverY: 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/twitter (3).png" alt=""><figcaption><p><mark style="color:blue;"><strong></strong></mark><a href="https://twitter.com/BlockBusiness_"><mark style="color:blue;"><strong>TWITTER OFFICIAL</strong></mark></a><mark style="color:blue;"><strong></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/twitter (3).png" alt=""><figcaption><p><mark style="color:blue;"><strong>TWITTER OFFICIAL</strong></mark></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/telegram (3).png" alt=""><figcaption><p><mark style="color:blue;"><strong></strong></mark><a href="https://t.me/Block_Business"><mark style="color:blue;"><strong>TELEGRAM OFFICIAL</strong></mark></a><mark style="color:blue;"><strong></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/telegram (3).png" alt=""><figcaption><p><mark style="color:blue;"><strong>TELEGRAM OFFICIAL</strong></mark></p></figcaption></figure>
 
  
 
@@ -23,6 +23,6 @@ coverY: 0
 
  
 
-<figure><img src="../.gitbook/assets/telegram (3).png" alt=""><figcaption><p><strong></strong><a href="https://t.me/BlockBusiness"><strong>TELEGRAM CHANNEL</strong></a><strong></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/telegram (3).png" alt=""><figcaption><p><strong>TELEGRAM CHANNEL</strong></p></figcaption></figure>
 
 </div>
