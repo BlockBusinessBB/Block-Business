@@ -17,7 +17,7 @@ _Cryptocurrency audits are security evaluations of blockchain systems, smart con
 
 _In order for us to audit your contract, it is very important to be aware of our steps, which are defined as follows:_
 
-* **Get in touch with** [**@Jhoncubbinsdev**](https://t.me/Jhoncubbinsdev), _**who is manager of the Block Business Audit process**_
+* **Get in touch with** , _****_ [_**@bullMarketcrypton**_](https://t.me/bullMarketcrypton) _**who is manager of the Block Business Audit process**_
 * _**The process will run in a group created by the Audit manager and will have 3 steps:**_
 
 1. _After the group has been created, the responsible manager will request payment from the CEO of the project, and after payment is confirmed, the second stage will begin;_

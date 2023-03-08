@@ -18,4 +18,4 @@ _Our continuous penetration testing process follows 6 key stages of discovery, t
 5. _**Rectification:** Collaborate effectively with your rectification team to rectify or minimize the identified vulnerabilities._
 6. _**Retest:** Verify the rectifications made, enhance your penetration testing program over time, and ensure continuous coverage through further testing._
 
-#### To learn more about our penetration testing, contact [**@Jhoncubbinsdev**](https://t.me/Jhoncubbinsdev)**.**
+#### To learn more about our penetration testing, contact _****_ [_**@bullMarketcrypton**_](https://t.me/bullMarketcrypton) _****_&#x20;
