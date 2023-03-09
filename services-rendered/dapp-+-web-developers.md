@@ -9,7 +9,7 @@ coverY: 0
 
 _At Block Business, we believe that the emerging blockchain space has huge potential to disrupt various aspects of our economy. With over 5 years of experience in building, customizing, and configuring websites, we are at the forefront of technology and strive to provide the best user interface design to make your project stand out. We believe in the importance of providing proper functioning of Dapps and websites, so that your users have a seamless experience using your app._
 
-#### The responsible for this sector is [_Jon_](https://t.me/Jhoncubbinsdev) _and_[ _Diego_](https://t.me/bullMarketcrypton) please contact him and he will guide you through the next steps.
+#### The responsible for this sector is [_Diego_](https://t.me/bullMarketcrypton) please contact him and he will guide you through the next steps.
 
 ## _Dapp + Web Developers - Explanation_&#x20;
 

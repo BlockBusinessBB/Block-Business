@@ -9,7 +9,7 @@ coverY: 0
 
 _We have the best developers in the cryptographic segment, where in addition to developing they also have the power to audit, with vast experience in the market. It is worth mentioning that our contracts govern all security and trust regimes, efficient due to its instantaneous nature, always reducing processing times and costs._
 
-#### _Contact_ [_Jon_](https://t.me/Jhoncubbinsdev)_, where he will instruct and guide you through the next steps._
+#### _Contact  ****_ [_**@bullMarketcrypton**_](https://t.me/bullMarketcrypton)_, where he will instruct and guide you through the next steps._
 
 ## Development Intelligent Contract - Explanation
 

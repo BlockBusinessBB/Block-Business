@@ -9,7 +9,7 @@ coverY: 0
 
 _Integrating mobile apps with cryptocurrency bots enables users to manage their wallets and execute transactions with greater convenience, speed, security, and accessibility, while also providing valuable market insights._
 
-#### _The responsible for this sector is_  [_Jon_](https://t.me/Jhoncubbinsdev) _and_[ _Diego_](https://t.me/bullMarketcrypton)  _, please contact him and he will guide you through the next steps._
+#### _The responsible for this sector is_ [_Diego_](https://t.me/bullMarketcrypton)  _, please contact him and he will guide you through the next steps._
 
 _The integration of mobile apps with cryptocurrency bots offers several advantages, including:_
 

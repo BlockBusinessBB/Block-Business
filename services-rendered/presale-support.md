@@ -12,4 +12,4 @@ _The power of social media in a cryptocurrency project can have a significant im
 __\
 __
 
-#### _The responsible for this sector is_ [_Peter_](https://t.me/petermarketing) _and_ [_Jimmy_](https://t.me/Jimmy\_calls)_, please contact him and he will guide you through the next steps._
+#### _The responsible for this sector is_ [_Peter_](https://t.me/petermarketing)_, please contact him and he will guide you through the next steps._
